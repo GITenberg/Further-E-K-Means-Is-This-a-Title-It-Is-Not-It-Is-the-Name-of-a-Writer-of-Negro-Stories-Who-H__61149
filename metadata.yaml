@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '37155'
     url: http://www.gutenberg.org/2009/agents/37155
     wikipedia: http://en.wikipedia.org/wiki/E._W._Kemble
+covers:
+- cover_type: archival
+  image_path: 61149-h/images/cover.jpg
 creator:
   author:
     agent_name: Means, E. K. (Eldred Kurtz)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '36150'
     url: http://www.gutenberg.org/2009/agents/36150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61149#Further-E-K-Means-Is-This-a-Title-It-Is-Not-It-Is-the-Name-of-a-Writer-of-Negro-Stories-Who-H_
 gutenberg_issued: '2020-01-11'
 gutenberg_type: Text
 identifiers:
