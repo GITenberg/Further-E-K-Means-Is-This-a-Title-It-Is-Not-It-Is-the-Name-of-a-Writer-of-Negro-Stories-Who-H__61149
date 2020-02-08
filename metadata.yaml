@@ -1,0 +1,41 @@
+_repo: Further-E-K-Means-Is-This-a-Title-It-Is-Not-It-Is-the-Name-of-a-Writer-of-Negro-Stories-Who-H__61149
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kemble, E. W. (Edward Windsor)
+    aliases:
+    - Kemble, Edward Windsor
+    - Kemble, E. W. (Edward Winsor)
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '37155'
+    url: http://www.gutenberg.org/2009/agents/37155
+    wikipedia: http://en.wikipedia.org/wiki/E._W._Kemble
+creator:
+  author:
+    agent_name: Means, E. K. (Eldred Kurtz)
+    alias: Means, Eldred Kurtz
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '36150'
+    url: http://www.gutenberg.org/2009/agents/36150
+description: ''
+gutenberg_issued: '2020-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'African Americans -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The left hind foot -- The 'fraid-cat -- The consolation prize --
+  The first high janitor -- Family ties -- The ten-share horse -- A chariot of fire.
+title: "Further E. K. Means\r\nIs This a Title? It Is Not. It Is the Name of a Writer\
+  \ of Negro Stories, Who Has Made Himself So Completely the Writer of Negro Stories\
+  \ That This Third Book, Like the First and Second, Needs No Title"
+url: http://www.gutenberg.org/ebooks/61149
